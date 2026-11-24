@@ -1,11 +1,11 @@
 {
-  "updated_at": "12:00",
+  "updated_at": "13:10",
   "news": {
     "title": "موجز الأسعار",
-    "body": "الدولار النقدي قرب 10.80 د.ل · ذهب عيار 21 نحو 1,063 د.ل للجرام"
+    "body": "الدولار النقدي قرب 11.53 د.ل · ذهب عيار 21 نحو 1,063 د.ل للجرام"
   },
   "currencies": [
-    { "id": "usd_cash", "buy": 10.79, "sell": 10.81, "change": "+0.18%", "trend": "up" },
+    { "id": "usd_cash", "buy": 11.50, "sell": 11.55, "change": "+0.18%", "trend": "up" },
     { "id": "usd_check", "buy": 10.92, "sell": 11.01, "change": "+0.25%", "trend": "up" },
     { "id": "usd_turkey", "buy": 10.83, "sell": 10.87, "change": "+0.12%", "trend": "up" },
     { "id": "usd_dubai", "buy": 10.81, "sell": 10.86, "change": "−0.05%", "trend": "down" },
@@ -29,3 +29,4 @@
     { "code": "EGP", "rate": 0.1308 }
   ]
 }
+
