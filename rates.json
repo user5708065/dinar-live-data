@@ -1,32 +1,115 @@
 {
-  "updated_at": "13:10",
+  "updated_at": "01:57",
   "news": {
     "title": "موجز الأسعار",
-    "body": "الدولار النقدي قرب 11.53 د.ل · ذهب عيار 21 نحو 1,063 د.ل للجرام"
+    "body": "الدولار النقدي قرب 11.26 د.ل · ذهب عيار 21 نحو 1130 د.ل للجرام"
   },
   "currencies": [
-    { "id": "usd_cash", "buy": 11.50, "sell": 11.55, "change": "+0.18%", "trend": "up" },
-    { "id": "usd_check", "buy": 10.92, "sell": 11.01, "change": "+0.25%", "trend": "up" },
-    { "id": "usd_turkey", "buy": 10.83, "sell": 10.87, "change": "+0.12%", "trend": "up" },
-    { "id": "usd_dubai", "buy": 10.81, "sell": 10.86, "change": "−0.05%", "trend": "down" },
-    { "id": "eur", "buy": 11.76, "sell": 11.82, "change": "+0.15%", "trend": "up" },
-    { "id": "gbp", "buy": 13.75, "sell": 13.80, "change": "+0.09%", "trend": "up" },
-    { "id": "tnd", "buy": 3.150, "sell": 3.225, "change": "+0.30%", "trend": "up" },
-    { "id": "try", "buy": 0.195, "sell": 0.205, "change": "−0.10%", "trend": "down" },
-    { "id": "egp", "buy": 0.165, "sell": 0.185, "change": "0.00%", "trend": "steady" }
+    {
+      "id": "usd_cash",
+      "buy": 11.26,
+      "sell": 11.31,
+      "change": "+0.18%",
+      "trend": "up"
+    },
+    {
+      "id": "usd_check",
+      "buy": 10.92,
+      "sell": 11.01,
+      "change": "+0.25%",
+      "trend": "up"
+    },
+    {
+      "id": "usd_turkey",
+      "buy": 10.83,
+      "sell": 10.87,
+      "change": "+0.12%",
+      "trend": "up"
+    },
+    {
+      "id": "usd_dubai",
+      "buy": 10.81,
+      "sell": 10.86,
+      "change": "−0.05%",
+      "trend": "down"
+    },
+    {
+      "id": "eur",
+      "buy": 12.25,
+      "sell": 12.31,
+      "change": "+0.15%",
+      "trend": "up"
+    },
+    {
+      "id": "gbp",
+      "buy": 13.75,
+      "sell": 13.8,
+      "change": "+0.09%",
+      "trend": "up"
+    },
+    {
+      "id": "tnd",
+      "buy": 0.29,
+      "sell": 0.34,
+      "change": "+0.30%",
+      "trend": "up"
+    },
+    {
+      "id": "try",
+      "buy": 0.195,
+      "sell": 0.205,
+      "change": "−0.10%",
+      "trend": "down"
+    },
+    {
+      "id": "egp",
+      "buy": 0.165,
+      "sell": 0.185,
+      "change": "0.00%",
+      "trend": "steady"
+    }
   ],
   "gold": [
-    { "id": "gold_21", "price": 1063, "change": "+8 د.ل" },
-    { "id": "gold_18", "price": 912, "change": "+6 د.ل" },
-    { "id": "gold_new", "price": 1140, "change": "+10 د.ل" }
+    {
+      "id": "gold_21",
+      "price": 1130,
+      "change": "+8 د.ل"
+    },
+    {
+      "id": "gold_18",
+      "price": 970,
+      "change": "+6 د.ل"
+    },
+    {
+      "id": "gold_new",
+      "price": 1140,
+      "change": "+10 د.ل"
+    }
   ],
   "official": [
-    { "code": "USD", "rate": 6.4727 },
-    { "code": "EUR", "rate": 7.0412 },
-    { "code": "GBP", "rate": 8.2340 },
-    { "code": "TND", "rate": 2.0615 },
-    { "code": "TRY", "rate": 0.1845 },
-    { "code": "EGP", "rate": 0.1308 }
+    {
+      "code": "USD",
+      "rate": 6.4727
+    },
+    {
+      "code": "EUR",
+      "rate": 7.0412
+    },
+    {
+      "code": "GBP",
+      "rate": 8.234
+    },
+    {
+      "code": "TND",
+      "rate": 2.0615
+    },
+    {
+      "code": "TRY",
+      "rate": 0.1845
+    },
+    {
+      "code": "EGP",
+      "rate": 0.1308
+    }
   ]
 }
-
